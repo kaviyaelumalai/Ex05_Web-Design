@@ -16,9 +16,62 @@
   Open the file in a browser and verify the output.
   
 ## CODE
+~~~
+<html>
+<head>
+<style type = "text/css">
+h1
+  {
+   background-color:PINK;
+    color:blue;
+    text-align:center;
+  }
 
+
+p
+   {
+    text-align:left;
+    border-bottom-style:groove;
+    border-top-style:groove; 
+    border-left-style:groove; 
+    border-right-style:groove;
+    border-width:25px;
+    font :Times Newroman;
+    border-bottom-color:pink;
+    border-top-color:pink;
+    border-left-color:grey; 
+    border-right-color:grey;
+   }
+</style>
+</head>
+<body>
+            <h1>BIO-DATA</h1>
+<p>    
+            NAME:KAVIYA E
+            <br>
+            FATHER NAME:ELUMALAI G
+            <br>
+            MOTHER NAME: VATSALA E
+            <br>
+            BLOOD GROUP: O+ve
+            <br>
+            DEPARTMENT:B.TECH AGRICULTURAL ENGINEERING
+            <br>
+            REGISTER NUMBER:212222250013
+            <br>
+            YEAR:FIRST YEAR
+            <br>
+            HOBBIES:LISTENING MUSIC AND READING BOOKS
+            <br>
+            PHONE NUMBER:7651892453
+            <br>
+            E-MAIL ID:kaviyaelumalai@gmail.com</p>
+</body>
+</html>
+~~~
 
 ## OUTPUT
+![biodata](https://github.com/kaviyaelumalai/Ex05_Web-Design/assets/127817032/427cf161-630c-4a32-9327-a18da3c13fa6)
 
 
 ## RESULT
